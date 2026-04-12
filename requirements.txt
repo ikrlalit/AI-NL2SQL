@@ -1,0 +1,16 @@
+# Core NL2SQL
+vanna>=2.0.0    
+# API Server
+fastapi
+uvicorn[standard]
+
+# Data
+pandas
+plotly
+
+# Utilities
+python-dotenv
+faker
+
+# Gemini LLM
+google-genai
